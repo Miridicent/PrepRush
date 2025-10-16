@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet1",
+  "%Name":"WallTile",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet1",
-  "out_columns":5,
+  "name":"WallTile",
+  "out_columns":19,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Classroom_Tiles",
-    "path":"sprites/Classroom_Tiles/Classroom_Tiles.yy",
+    "name":"Wall_Sprite",
+    "path":"sprites/Wall_Sprite/Wall_Sprite.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -28,11 +28,11 @@
   },
   "tileAnimationFrames":[],
   "tileAnimationSpeed":15.0,
-  "tileHeight":96,
+  "tileHeight":10,
   "tilehsep":0,
   "tilevsep":0,
-  "tileWidth":96,
+  "tileWidth":10,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":24,
+  "tile_count":361,
 }

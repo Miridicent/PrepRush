@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"Classroom_Tiles",
   "bboxMode":0,
-  "bbox_bottom":191,
+  "bbox_bottom":287,
   "bbox_left":0,
   "bbox_right":767,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":192,
+  "height":320,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"1b4742cf-d3c6-46a6-922e-af610c0a030a","blendMode":0,"displayName":"default","isLocked":false,"name":"1b4742cf-d3c6-46a6-922e-af610c0a030a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
