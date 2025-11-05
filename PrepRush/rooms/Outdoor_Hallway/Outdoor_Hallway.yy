@@ -8,13 +8,14 @@
   "instanceCreationOrder":[],
   "isDnd":false,
   "layers":[
-    {"$GMRTileLayer":"","%Name":"Enviroment","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Enviroment","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":11,"SerialiseWidth":11,"TileCompressedData":[
-          1,16,-3,-2147483648,-3,9,-3,-2147483648,2,17,16,-3,-2147483648,-3,9,-3,-2147483648,2,17,16,-3,-2147483648,
-          -3,9,-3,-2147483648,2,17,16,-3,-2147483648,-3,9,-3,-2147483648,2,17,16,-3,-2147483648,-3,9,-3,-2147483648,
-          2,17,16,-3,-2147483648,-3,9,-3,-2147483648,2,17,16,-3,-2147483648,-3,9,-3,-2147483648,2,17,16,-3,-2147483648,
-          -3,9,-3,-2147483648,2,17,16,-3,-2147483648,-3,9,-3,-2147483648,2,17,16,-3,-2147483648,-3,9,-3,-2147483648,
-          2,17,16,-3,-2147483648,-3,9,-3,-2147483648,1,17,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"Enviroment","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Enviroment","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":17,"SerialiseWidth":11,"TileCompressedData":[
+          1,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,
+          3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,
+          -3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,
+          13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,
+          12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,2,14,13,-3,11,3,12,9,10,-3,11,1,14,-4,-2147483648,1,0,-6,
+          -2147483648,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"Outdoor_TileSet","path":"tilesets/Outdoor_TileSet/Outdoor_TileSet.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
@@ -34,7 +35,7 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":1056,
+    "Height":1540,
     "inheritRoomSettings":false,
     "persistent":false,
     "Width":1056,

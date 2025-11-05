@@ -1,8 +1,8 @@
-/// @description Insert description here
+// Movement Code
 // You can write your code in this editor
 
-//Movement Code
 
+// Bind Keys
 var right_key = keyboard_check(ord("D"));
 var left_key = keyboard_check(ord("A"));
 var up_key = keyboard_check(ord("W"));
@@ -22,7 +22,7 @@ if place_meeting(x, y + yspd, tilecollide) || place_meeting(x, y + yspd, global.
 }
 
 
-//move_player
+//Move_player
 x += xspd;
 y += yspd;
 
@@ -53,7 +53,7 @@ if (face = DOWN && xspd == 0 && yspd == 0){face = DOWNS};
 sprite_index = sprite[face];
 
 	
-	//Sprint
+//Sprint
 if keyboard_check(vk_shift)
 	{
 		move_spd = 10;
@@ -66,7 +66,7 @@ else
 		sprite_set_speed(sprite_index, 2, spritespeed_framespersecond);
 	}
 
-
+//Exit Game
 if (keyboard_check_pressed(vk_escape))
 {
 	game_end();
