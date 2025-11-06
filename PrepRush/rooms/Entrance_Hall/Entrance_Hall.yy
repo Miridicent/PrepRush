@@ -7,13 +7,24 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_DDDF1C","path":"rooms/Entrance_Hall/Entrance_Hall.yy",},
+    {"name":"inst_73100FE0","path":"rooms/Entrance_Hall/Entrance_Hall.yy",},
+    {"name":"inst_78AFC6A4","path":"rooms/Entrance_Hall/Entrance_Hall.yy",},
+    {"name":"inst_73E010DF","path":"rooms/Entrance_Hall/Entrance_Hall.yy",},
+    {"name":"inst_9983A3","path":"rooms/Entrance_Hall/Entrance_Hall.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_DDDF1C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_DDDF1C","objectId":{"name":"Stair_Top_Obj","path":"objects/Stair_Top_Obj/Stair_Top_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.3599854,"scaleY":7.359985,"x":576.0,"y":32.0,},
+        {"$GMRInstance":"v1","%Name":"inst_DDDF1C","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_DDDF1C","objectId":{"name":"Stair_Top_Obj","path":"objects/Stair_Top_Obj/Stair_Top_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":7.3599854,"scaleY":7.359985,"x":608.0,"y":32.0,},
+        {"$GMRInstance":"v1","%Name":"inst_73100FE0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_73100FE0","objectId":{"name":"Shoelocker_Obj","path":"objects/Shoelocker_Obj/Shoelocker_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6020165,"scaleY":0.6020165,"x":320.0,"y":544.0,},
+        {"$GMRInstance":"v1","%Name":"inst_78AFC6A4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_78AFC6A4","objectId":{"name":"Shoelocker_Obj","path":"objects/Shoelocker_Obj/Shoelocker_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6020165,"scaleY":0.6020165,"x":672.0,"y":544.0,},
+        {"$GMRInstance":"v1","%Name":"inst_73E010DF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_73E010DF","objectId":{"name":"Shoelocker_Obj","path":"objects/Shoelocker_Obj/Shoelocker_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6020165,"scaleY":0.6020165,"x":1312.0,"y":544.0,},
+        {"$GMRInstance":"v1","%Name":"inst_9983A3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9983A3","objectId":{"name":"Shoelocker_Obj","path":"objects/Shoelocker_Obj/Shoelocker_Obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6020165,"scaleY":0.6020165,"x":1696.0,"y":544.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRTileLayer":"","%Name":"Enviroment","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Enviroment","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":12,"SerialiseWidth":23,"TileCompressedData":[-92,11,-23,12,-23,9,-115,18,-23,0,],"TileDataFormat":1,},"tilesetId":{"name":"Classroom_TileSet","path":"tilesets/Classroom_TileSet/Classroom_TileSet.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
+    {"$GMRTileLayer":"","%Name":"Enviroment","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Enviroment","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":12,"SerialiseWidth":23,"TileCompressedData":[
+          -92,11,-23,12,-23,9,1,16,-21,18,2,17,16,-21,18,2,17,16,-21,18,2,17,16,-21,18,2,17,16,-21,18,1,17,-23,
+          0,
+        ],"TileDataFormat":1,},"tilesetId":{"name":"Classroom_TileSet","path":"tilesets/Classroom_TileSet/Classroom_TileSet.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "name":"Entrance_Hall",
@@ -39,7 +50,7 @@
   },
   "sequenceId":null,
   "views":[
-    {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
+    {"hborder":400,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":{"name":"Vee_Obj","path":"objects/Vee_Obj/Vee_Obj.yy",},"vborder":400,"visible":true,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
@@ -51,7 +62,7 @@
   "viewSettings":{
     "clearDisplayBuffer":true,
     "clearViewBackground":false,
-    "enableViews":false,
+    "enableViews":true,
     "inheritViewSettings":false,
   },
   "volume":1.0,

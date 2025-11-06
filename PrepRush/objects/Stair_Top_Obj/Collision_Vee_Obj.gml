@@ -1,3 +1,1 @@
-/// @description Change Rooms
-
 SwitchRoom(Nroom, Vee_Obj, xplace, yplace);

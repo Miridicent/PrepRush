@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Stair_Top_Obj",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Vee_Obj","path":"objects/Vee_Obj/Vee_Obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Shoelocker_Obj",
+  "eventList":[],
   "managed":true,
-  "name":"Stair_Top_Obj",
+  "name":"Shoelocker_Obj",
   "overriddenProperties":[],
   "parent":{
     "name":"World",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"StairTop_Sprite",
-    "path":"sprites/StairTop_Sprite/StairTop_Sprite.yy",
+    "name":"Shoelocker_Sprite",
+    "path":"sprites/Shoelocker_Sprite/Shoelocker_Sprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,

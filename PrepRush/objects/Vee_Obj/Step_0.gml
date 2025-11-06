@@ -66,6 +66,12 @@ else
 		sprite_set_speed(sprite_index, 2, spritespeed_framespersecond);
 	}
 
+//Layer Control
+//if layer_exists(global.Instances)
+//{
+//	layer = global.Instances;
+//}
+
 //Exit Game
 if (keyboard_check_pressed(vk_escape))
 {

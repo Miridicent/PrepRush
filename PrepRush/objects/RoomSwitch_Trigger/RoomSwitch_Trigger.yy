@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Stair_Top_Obj",
+  "%Name":"RoomSwitch_Trigger",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Vee_Obj","path":"objects/Vee_Obj/Vee_Obj.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Stair_Top_Obj",
+  "name":"RoomSwitch_Trigger",
   "overriddenProperties":[],
   "parent":{
-    "name":"World",
-    "path":"folders/Objects/World.yy",
+    "name":"Triggers",
+    "path":"folders/Objects/Triggers.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,9 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"StairTop_Sprite",
-    "path":"sprites/StairTop_Sprite/StairTop_Sprite.yy",
+    "name":"Trigger_Sprite",
+    "path":"sprites/Trigger_Sprite/Trigger_Sprite.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
